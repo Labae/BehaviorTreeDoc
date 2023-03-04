@@ -148,7 +148,19 @@
       "output": {
         ".html": {
           "relative_path": "api/BehaviorTree.Scripts.Runtime.Core.BehaviorTreeSO.html",
-          "hash": "1cF0zwc/SvA9sKQIx8kScAXT9LybCDJtRtPRsYQRgjQ="
+          "hash": "DADfSQrKafr/m/wllJzOaEF38SCtlh9jkwz2zSJvWYk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BehaviorTree.Scripts.Runtime.Core.NodeState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BehaviorTree.Scripts.Runtime.Core.NodeState.html",
+          "hash": "559gE+s08f5rAwMO3XpWavwVq+K+WcRF8+Lpq3f9txU="
         }
       },
       "is_incremental": false,
@@ -160,7 +172,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BehaviorTree.Scripts.Runtime.Core.Nodes.Actions.ActionNode.html",
-          "hash": "gMIWyQhSCutrGDz06FtXkN+F1y/A6sKk/4NkHZndYaA="
+          "hash": "cFpqjSKDfCCNGSejhGfNatgt5A0yoI2VE7svmZzKoVo="
         }
       },
       "is_incremental": false,
@@ -172,7 +184,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BehaviorTree.Scripts.Runtime.Core.Nodes.Actions.DebugLogNode.html",
-          "hash": "ZmAw9/uWca42pjWPnj5E9FIl3x5kOwTui1nX0vH4UnY="
+          "hash": "32GtpZnxC5tGwJRgzNR0jewims+20l9H1SzR6TfpeKQ="
         }
       },
       "is_incremental": false,
@@ -184,7 +196,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BehaviorTree.Scripts.Runtime.Core.Nodes.Actions.WaitNode.html",
-          "hash": "4GlY0/gt+iWJwVApznkFpzbexPgtBiLuqwEFNlGpH3g="
+          "hash": "QpleFrDCzoRysjoS7lprueVp8ixfbQZ2l7gE2DjZGr0="
         }
       },
       "is_incremental": false,
@@ -196,7 +208,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BehaviorTree.Scripts.Runtime.Core.Nodes.Actions.html",
-          "hash": "78seWitvklPOB/HZVMhPxfYzX/y9LCpom4qm9QMYx2M="
+          "hash": "AmRrYKCVxEwVbsAd17RVOOcjg7ZfEGdGf/ZcKP5kWRI="
         }
       },
       "is_incremental": false,
@@ -208,7 +220,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BehaviorTree.Scripts.Runtime.Core.Nodes.Composites.CompositeNode.html",
-          "hash": "1U/fMxm/fl8x3WMWJmYm2Rj6Vm3untLX3waFEy47VZA="
+          "hash": "y+Y+rGRqmhSLJTnC9f+X3V0bQ4njZBou7/OMwMYnxBU="
         }
       },
       "is_incremental": false,
@@ -220,7 +232,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BehaviorTree.Scripts.Runtime.Core.Nodes.Composites.SequencerNode.html",
-          "hash": "aKQ09FiNK+LkP6ApgK3bq2ae9ROTXmMcugEVMOsxOxE="
+          "hash": "WUverU9SQYTwQQ4HaUKIfe5JB09x7oqt0pdaVKbqwK0="
         }
       },
       "is_incremental": false,
@@ -244,7 +256,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BehaviorTree.Scripts.Runtime.Core.Nodes.Decorators.DecoratorNode.html",
-          "hash": "jKKWw3xH4wYc92srnAMBAJMW8TXW1ac52GRlfxXJzTw="
+          "hash": "Sfgo/SC4nxzbx/OcgrnuJqevArYCUWd2tO3sG2sxWyc="
         }
       },
       "is_incremental": false,
@@ -256,7 +268,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BehaviorTree.Scripts.Runtime.Core.Nodes.Decorators.RepeatNode.html",
-          "hash": "yG8Baobz1swvqKacqCaw25naVaEEJrfDR6aUSx6qp2A="
+          "hash": "ILz6/EhpdfdCyiEFY2OVjsVBlgWtRXVVxgaSuXa8yPQ="
         }
       },
       "is_incremental": false,
@@ -280,7 +292,7 @@
       "output": {
         ".html": {
           "relative_path": "api/BehaviorTree.Scripts.Runtime.Core.Nodes.NodeSO.html",
-          "hash": "rOoprHWCvi74RvscZPExcEcBioxXaIVEvhXC7hTmb4Q="
+          "hash": "US88NtRHeevnDfHSd4x7BgWKZ05jdpUFNyjjy5hAxII="
         }
       },
       "is_incremental": false,
@@ -300,23 +312,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/BehaviorTree.Scripts.Runtime.Core.State.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/BehaviorTree.Scripts.Runtime.Core.State.html",
-          "hash": "VvHoZig+pl3p2RR5PSIPXIM5JG5Wm+p7FDzvVTqL4ds="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api/BehaviorTree.Scripts.Runtime.Core.yml",
       "output": {
         ".html": {
           "relative_path": "api/BehaviorTree.Scripts.Runtime.Core.html",
-          "hash": "Ex3aOjbB7iUeAN4ocZWfRKCZB01j8oDomc+8drJmNSQ="
+          "hash": "b8T1DIVfHIDQeYWSR8uVObcYTJEwFb1AsIA7h+L4wAY="
         }
       },
       "is_incremental": false,
@@ -364,7 +364,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "nxl0yy32UzUGpUV0XqZ53MZ2Fqf2+9z6sNDcKD2LYJE="
+          "hash": "gVxNNBwhVtY8pngWQOGa8G52hmUFSccZZGnV40uZ4bg="
         }
       },
       "is_incremental": false,
