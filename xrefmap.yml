@@ -747,18 +747,6 @@ references:
   commentId: T:BehaviorTree.Scripts.Runtime.Core.NodeState
   fullName: BehaviorTree.Scripts.Runtime.Core.NodeState
   nameWithType: NodeState
-- uid: BehaviorTree.Scripts.Runtime.Core.NodeState.Abort
-  name: Abort
-  href: api/BehaviorTree.Scripts.Runtime.Core.NodeState.html#BehaviorTree_Scripts_Runtime_Core_NodeState_Abort
-  commentId: F:BehaviorTree.Scripts.Runtime.Core.NodeState.Abort
-  fullName: BehaviorTree.Scripts.Runtime.Core.NodeState.Abort
-  nameWithType: NodeState.Abort
-- uid: BehaviorTree.Scripts.Runtime.Core.NodeState.Error
-  name: Error
-  href: api/BehaviorTree.Scripts.Runtime.Core.NodeState.html#BehaviorTree_Scripts_Runtime_Core_NodeState_Error
-  commentId: F:BehaviorTree.Scripts.Runtime.Core.NodeState.Error
-  fullName: BehaviorTree.Scripts.Runtime.Core.NodeState.Error
-  nameWithType: NodeState.Error
 - uid: BehaviorTree.Scripts.Runtime.Core.NodeState.Failure
   name: Failure
   href: api/BehaviorTree.Scripts.Runtime.Core.NodeState.html#BehaviorTree_Scripts_Runtime_Core_NodeState_Failure
