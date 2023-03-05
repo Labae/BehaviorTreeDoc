@@ -298,12 +298,6 @@ references:
   commentId: T:BehaviorTree.Scripts.Runtime.Core.BehaviorTreeSO
   fullName: BehaviorTree.Scripts.Runtime.Core.BehaviorTreeSO
   nameWithType: BehaviorTreeSO
-- uid: BehaviorTree.Scripts.Runtime.Core.BehaviorTreeSO.Blackboard
-  name: Blackboard
-  href: api/BehaviorTree.Scripts.Runtime.Core.BehaviorTreeSO.html#BehaviorTree_Scripts_Runtime_Core_BehaviorTreeSO_Blackboard
-  commentId: F:BehaviorTree.Scripts.Runtime.Core.BehaviorTreeSO.Blackboard
-  fullName: BehaviorTree.Scripts.Runtime.Core.BehaviorTreeSO.Blackboard
-  nameWithType: BehaviorTreeSO.Blackboard
 - uid: BehaviorTree.Scripts.Runtime.Core.BehaviorTreeSO.Clone
   name: Clone()
   href: api/BehaviorTree.Scripts.Runtime.Core.BehaviorTreeSO.html#BehaviorTree_Scripts_Runtime_Core_BehaviorTreeSO_Clone
@@ -626,12 +620,6 @@ references:
   commentId: T:BehaviorTree.Scripts.Runtime.Core.Nodes.NodeSO
   fullName: BehaviorTree.Scripts.Runtime.Core.Nodes.NodeSO
   nameWithType: NodeSO
-- uid: BehaviorTree.Scripts.Runtime.Core.Nodes.NodeSO.Blackboard
-  name: Blackboard
-  href: api/BehaviorTree.Scripts.Runtime.Core.Nodes.NodeSO.html#BehaviorTree_Scripts_Runtime_Core_Nodes_NodeSO_Blackboard
-  commentId: F:BehaviorTree.Scripts.Runtime.Core.Nodes.NodeSO.Blackboard
-  fullName: BehaviorTree.Scripts.Runtime.Core.Nodes.NodeSO.Blackboard
-  nameWithType: NodeSO.Blackboard
 - uid: BehaviorTree.Scripts.Runtime.Core.Nodes.NodeSO.Clone
   name: Clone()
   href: api/BehaviorTree.Scripts.Runtime.Core.Nodes.NodeSO.html#BehaviorTree_Scripts_Runtime_Core_Nodes_NodeSO_Clone
